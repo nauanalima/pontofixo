@@ -2,4 +2,4 @@
 Primeiro projeto de Métodos Numéricos
 
 ## introdução
-Resumo
+Programa teste para atividades futuras.
